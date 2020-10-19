@@ -1,0 +1,11 @@
+reviewCoun,checkinDate,uniqId,hotelId,ratingCount,hotelName,ota,defaultRank,priceRank,crawledDate
+4,03-11-2019 00:00,62ff4459d734cbddc96edbc60a5b1084,1469636,4.6,OYO Rooms Madhapur,booking.com,226,123,2019-11-03 11:14:24 +0000
+,23-12-2019 00:00,84f916cc94d5567e5e5c2b1a8de0b5e1,4669057,,OYO 28584 The Royal Park Resort,booking.com,117,106,2019-12-19 11:10:45 +0000
+1,07-11-2019 00:00,c717d62ed414df37ae94350f9c34a8f9,5175289,,OYO 39829 Kum Kum Palace Hotel Saver,booking.com,270,76,2019-11-05 09:57:48 +0000
+,24-10-2019 00:00,bba91bebf1ccaf5e5300ec111d2627dc,5452599,,THE NANDINIS,booking.com,476,602,2019-10-12 09:38:48 +0000
+66,11-12-2019 00:00,163e025693c182ee124036226dbe8aa6,288461,8.7,The Manor - A Boutique Hotel,booking.com,48,69,2019-12-08 10:38:00 +0000
+8,24-10-2019 00:00,070db6c3cad20196fa475b3daf16612e,3443112,9.6,Hill-View Homestay in Madikeri,booking.com,11,41,2019-10-24 10:03:55 +0000
+179,19-12-2019 00:00,03a41d4ed1d257fa2ccbaadc7b83cecb,4157019,9,Castle Namahstay Hostel & Art Space,booking.com,13,17,2019-12-06 13:58:21 +0000
+34,23-12-2019 00:00,51d3e4bb8f57f52696105dced23f1060,2339531,5.7,Hotel Pritam - Central Avenue Nagpur,booking.com,20,24,2019-12-23 09:47:25 +0000
+,25-12-2019 00:00,1f3b03bf12b8206e2c809f8645e2f2c9,3722698,,Vamoosetrail Manali Nasog,booking.com,428,,2019-12-23 11:14:41 +0000
+6,07-11-2019 00:00,3a1e4bb3e831b959ad425541080c4de0,2857588,8.9,Peaceful Stay near Pacific Mall,booking.com,215,41,2019-10-23 12:46:58 +0000
