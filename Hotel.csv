@@ -1,4 +1,4 @@
-reviewCoun,checkinDate,uniqId,hotelId,ratingCount,hotelName,ota,defaultRank,priceRank,crawledDate
+reviewCount,checkinDate,uniqId,hotelId,ratingCount,hotelName,ota,defaultRank,priceRank,crawledDate
 4,03-11-2019 00:00,62ff4459d734cbddc96edbc60a5b1084,1469636,4.6,OYO Rooms Madhapur,booking.com,226,123,2019-11-03 11:14:24 +0000
 ,23-12-2019 00:00,84f916cc94d5567e5e5c2b1a8de0b5e1,4669057,,OYO 28584 The Royal Park Resort,booking.com,117,106,2019-12-19 11:10:45 +0000
 1,07-11-2019 00:00,c717d62ed414df37ae94350f9c34a8f9,5175289,,OYO 39829 Kum Kum Palace Hotel Saver,booking.com,270,76,2019-11-05 09:57:48 +0000
